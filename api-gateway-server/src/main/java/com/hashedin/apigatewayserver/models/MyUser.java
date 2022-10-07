@@ -25,4 +25,9 @@ public class MyUser {
     private String username;
 
     private String password;
+
+    public MyUser(Long id) {
+        this.id = id;
+    }
+
 }
