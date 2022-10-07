@@ -50,12 +50,6 @@
 		</dependency>
 <!--		######-->
 
-<!--	#####	Manage Requests to Zipkin in form of Queue-->
-		<dependency>
-			<groupId>org.springframework.amqp</groupId>
-			<artifactId>spring-rabbit</artifactId>
-		</dependency>
-<!--		######-->
 
 <!--		##### Calling another microservices from naming(eureka) server along with load balancing-->
 		<dependency>
